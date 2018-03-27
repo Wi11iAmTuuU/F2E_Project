@@ -92,11 +92,11 @@ header table {
 }
 
 header .normal {
-	padding: 16px 30px;
+	padding: 16px 25px;
 }
 
 header .extend {
-	padding: 16px 307px 16px 30px;
+	padding: 16px 310px 16px 25px;
 }
 
 header::after {
